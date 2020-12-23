@@ -21,7 +21,7 @@ Each process has a priority (1-8, lowest being higher) which is handled using th
 Usage
 --------
 Generate some processes from the generate button (make sure to set your desired maximum process number) or 
-create custom processes from Edit > Process wizard. Delete undesired processes by selecting them and hitting the
+create custom processes from **Edit > Process wizard**. Delete undesired processes by selecting them and hitting the
 Delete button. Once your processes are ready, set your desired time quantum. You can now click the forward button
 (labeled no. 10 above) to go forward one step, or click it once and hold down the enter key to fast-forward.
 Notice how some processes are scheduled for later if a higher priority process comes up in the queue. Finished
