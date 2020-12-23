@@ -8,16 +8,16 @@ Usage
 --------
 ![Image](https://i.imgur.com/7iBYfb9.png)
 
-**1.** Graphical display of processes.
-**2.** Desired time quantum.
-**3.** Number of processes to generate.
-**4.** Generate button randomly generates processes with random start times, burst times, and priorities.
-**5.** List of processes. Choosing one highlights it in the graphical display.
-**6.** Manual process creator.
-**7.** Curent process queue.
-**8.** Clear process list.
-**9.** Delete selected process.
-**10.** Next step in the timeline.
+**1.** Graphical display of processes.    
+**2.** Desired time quantum.    
+**3.** Number of processes to generate.    
+**4.** Generate button randomly generates processes with random start times, burst times, and priorities.    
+**5.** List of processes. Choosing one highlights it in the graphical display.    
+**6.** Manual process creator.    
+**7.** Curent process queue.    
+**8.** Clear process list.    
+**9.** Delete selected process.    
+**10.** Next step in the timeline.    
 **11.** Go to start of the timeline
 
 Credits
